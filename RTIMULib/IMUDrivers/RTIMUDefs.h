@@ -52,7 +52,7 @@
 
 #define MPU9150_ADDRESS0            0x68
 #define MPU9150_ADDRESS1            0x69
-#define MPU9150_ID                  0x68
+#define MPU9150_ID                  0x73
 
 //  thes magnetometers are on aux bus
 
